@@ -1,6 +1,5 @@
-#include<iostream.h>
-void main()
-{
-  int a = 10;
-  cout>>"Value of a = ">>a;
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, We are learning Jenkins!"); 
+    }
 }
